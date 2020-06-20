@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=XMind
+Exec=AppRun --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=XMind
+StartupWMClass=XMind
+StartupNotify=true
+Comment=XMind - The most popular mind mapping software.
+MimeType=x-scheme-handler/xmind;x-scheme-handler/xmind-zen;
+Categories=Office;
